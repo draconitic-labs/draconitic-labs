@@ -11,12 +11,13 @@ Flintglade is an independent technology company focused on AI research, machine-
 ## Explore Flintglade
 
 - [Company and research](https://flintglade.com/) — AI research, machine-learning development, and scientific software across physics, quantum computing, biotechnology, and biochemistry.
+- [Oxalosuccinate](https://oxalosuccinate.flintglade.com/) — trace evidence across human alpha-carbonic-anhydrase structures, biochemical assays, reaction assignments, and an interactive central-carbon pathway map.
 - [AI Compendium](https://ai.flintglade.com/) — explore AI systems, research, benchmarks, organizations, and history through linked sources.
 - [Flintglade Analytics](https://stats.flintglade.com/) — cookieless web measurement and focused reporting for small site portfolios.
-- [Chrome extensions](https://flintglade.com/chrome-extensions) — a directory of 15 published, focused browser tools.
+- [Chrome extensions](https://flintglade.com/chrome-extensions) — a directory of 16 published, focused browser tools.
 
 ## Download and support
 
-Download the latest [Consilium release for Windows or Linux](https://github.com/flintglade/consilium/releases/latest). If the open-source work is useful to you, [support Flintglade on Patreon](https://www.patreon.com/cw/zach457).
+Download the latest [Consilium release for Windows or Linux](https://github.com/flintglade/consilium/releases/latest). If the open-source work is useful to you, [support Flintglade on Patreon](https://www.patreon.com/zach457).
 
 Product support: [support@flintglade.com](mailto:support@flintglade.com)
