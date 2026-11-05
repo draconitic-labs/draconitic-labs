@@ -4,7 +4,7 @@
 
 # Draconitic Labs
 
-An independent lab building open-source scientific software and AI tools: metabolic modelling, physics, numerical simulation, machine learning and local-first research instruments. Each project publishes how far to trust it, with the checks to reproduce that.
+An independent lab building open-source scientific software and AI tools: metabolic modelling, physics, numerical simulation, machine learning and local-first research instruments.
 
 ## Projects
 
@@ -21,7 +21,7 @@ An independent lab building open-source scientific software and AI tools: metabo
 
 - [draconitic.com](https://draconitic.com/): research instruments, references, capability tests and market data
 - [Research](https://draconitic.com/research) and [Labs](https://draconitic.com/labs)
-- [Atlas of Human Biochemistry](https://biochemistry.draconitic.com/): structures, assays, reactions and an interactive map of human metabolism
+- [Biochemistry](https://biochemistry.draconitic.com/): biomolecules, catabolism, biosynthesis and an interactive map of metabolism
 - [AI Compendium](https://ai.draconitic.com/): AI systems, research, benchmarks and history, through linked sources
 - [Consilium](https://ai.draconitic.com/consilium)
 
