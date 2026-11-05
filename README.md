@@ -1,23 +1,32 @@
-# Flintglade
+<p align="center">
+  <img src="brand/draconitic-labs-dragon-mark.png" width="240" alt="The Draconitic Labs dragon">
+</p>
 
-Flintglade is an independent technology company focused on AI research, machine-learning development, and scientific software spanning physics, quantum computing, biotechnology, and biochemistry.
+# Draconitic Labs
 
-## Featured projects
+An independent lab building open-source scientific software and AI tools: metabolic modelling, physics, numerical simulation, machine learning and local-first research instruments. Each project publishes how far to trust it, with the checks to reproduce that.
 
-- [Consilium](https://github.com/flintglade/consilium) — a free, open-source multi-provider AI harness for local models, provider CLIs, and optional APIs on Windows and Linux.
-- [Greenlit Goods](https://github.com/flintglade-tools/greenlit-goods) — an offline Google Merchant Center feed preflight and conservative repair tool.
-- [Proscenium](https://github.com/flintglade-tools/proscenium) — a local-first deterministic webhook reliability lab for Windows.
+## Projects
 
-## Explore Flintglade
+| Project | What it is |
+| --- | --- |
+| [Rashevsky](https://github.com/draconitic-labs/rashevsky) | Genome-scale and kinetic metabolic modelling in Rust: flux balance analysis, knockout screens, flux sampling, SBML kinetics and control analysis, with Python, a desktop app and a [live browser demo](https://draconitic-labs.github.io/rashevsky/). Validated against COBRApy, COPASI and libRoadRunner. |
+| [Consilium](https://github.com/draconitic-labs/consilium) | A free, open-source multi-provider AI harness for local models, provider CLIs and optional APIs, on Windows and Linux. [Download](https://github.com/draconitic-labs/consilium/releases/latest). |
+| [Revelatio Noetica](https://github.com/flintglade-tools/revelatio-noetica) | A living atlas of mathematics and physics: 23 chambers of live GPU visualizations, in native Rust and wgpu. |
+| [Ripple Tank](https://github.com/flintglade-tools/ripple-tank) | A gravity-capillary wave workspace with a shared Rust engine, a native Qt desktop, a WebAssembly browser app and reproducible experiments. |
+| [Tonans](https://github.com/flintglade-tools/tonans) | A local-first microgrid scenario workbench with provenance-rich analysis. |
+| [Ordinata](https://github.com/flintglade-tools/ordinata) | A local inverse-problem and uncertainty evidence workbench. |
 
-- [Company and research](https://flintglade.com/) — AI research, machine-learning development, and scientific software across physics, quantum computing, biotechnology, and biochemistry.
-- [Oxalosuccinate](https://oxalosuccinate.flintglade.com/) — trace evidence across human alpha-carbonic-anhydrase structures, biochemical assays, reaction assignments, and an interactive central-carbon pathway map.
-- [AI Compendium](https://ai.flintglade.com/) — explore AI systems, research, benchmarks, organizations, and history through linked sources.
-- [Flintglade Analytics](https://stats.flintglade.com/) — cookieless web measurement and focused reporting for small site portfolios.
-- [Chrome extensions](https://flintglade.com/chrome-extensions) — a directory of 16 published, focused browser tools.
+## On the web
 
-## Download and support
+- [draconitic.com](https://draconitic.com/): research instruments, references, capability tests and market data
+- [Research](https://draconitic.com/research) and [Labs](https://draconitic.com/labs)
+- [Atlas of Human Biochemistry](https://biochemistry.draconitic.com/): structures, assays, reactions and an interactive map of human metabolism
+- [AI Compendium](https://ai.draconitic.com/): AI systems, research, benchmarks and history, through linked sources
+- [Consilium](https://ai.draconitic.com/consilium)
 
-Download the latest [Consilium release for Windows or Linux](https://github.com/flintglade/consilium/releases/latest). If the open-source work is useful to you, [support Flintglade on Patreon](https://www.patreon.com/zach457).
+## Contact
 
-Product support: [support@flintglade.com](mailto:support@flintglade.com)
+[support@draconitic.com](mailto:support@draconitic.com). If this work is useful to you, you can [support it on Patreon](https://www.patreon.com/zach457).
+
+The dragon, as vector and raster, is in [`brand/`](brand/).
