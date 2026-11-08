@@ -12,10 +12,11 @@ An independent lab building open-source scientific software and AI tools: metabo
 | --- | --- |
 | [Rashevsky](https://github.com/draconitic-labs/rashevsky) | Genome-scale and kinetic metabolic modelling in Rust: flux balance analysis, knockout screens, flux sampling, SBML kinetics and control analysis, with Python, a desktop app and a [live browser demo](https://draconitic-labs.github.io/rashevsky/). Validated against COBRApy, COPASI and libRoadRunner. |
 | [Consilium](https://github.com/draconitic-labs/consilium) | A free, open-source multi-provider AI harness for local models, provider CLIs and optional APIs, on Windows and Linux. [Download](https://github.com/draconitic-labs/consilium/releases/latest). |
-| [Revelatio Noetica](https://github.com/flintglade-tools/revelatio-noetica) | A living atlas of mathematics and physics: 23 chambers of live GPU visualizations, in native Rust and wgpu. |
-| [Ripple Tank](https://github.com/flintglade-tools/ripple-tank) | A gravity-capillary wave workspace with a shared Rust engine, a native Qt desktop, a WebAssembly browser app and reproducible experiments. |
-| [Tonans](https://github.com/flintglade-tools/tonans) | A local-first microgrid scenario workbench with provenance-rich analysis. |
-| [Ordinata](https://github.com/flintglade-tools/ordinata) | A local inverse-problem and uncertainty evidence workbench. |
+| [Revelatio Noetica](https://github.com/draconitic-labs/revelatio-noetica) | A living atlas of mathematics and physics: 23 chambers of live GPU visualizations, in native Rust and wgpu. |
+| [Ripple Tank](https://github.com/draconitic-labs/ripple-tank) | A gravity-capillary wave workspace with a shared Rust engine, a native Qt desktop, a WebAssembly browser app and reproducible experiments. |
+| [Tonans](https://github.com/draconitic-labs/tonans) | A local-first microgrid scenario workbench with provenance-rich analysis. |
+| [Ordinata](https://github.com/draconitic-labs/ordinata) | A local inverse-problem and uncertainty evidence workbench. |
+| [Pantheon](https://github.com/draconitic-labs/pantheon) | An atlas of the universe as one continuous map, from Earth to the cosmic web, in 2D and 3D. |
 
 ## On the web
 
