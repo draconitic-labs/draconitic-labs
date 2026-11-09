@@ -30,4 +30,4 @@ An independent lab building open-source scientific software and AI tools: metabo
 
 [support@draconitic.com](mailto:support@draconitic.com). If this work is useful to you, you can [support it on Patreon](https://www.patreon.com/zach457).
 
-The dragon, as vector and raster, is in [`brand/`](brand/).
+The dragon mark is in [`brand/`](brand/): `draconitic-mark.svg` (vector) and `draconitic-labs-dragon-mark.png` (raster).
